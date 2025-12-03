@@ -1,0 +1,18 @@
+.link {
+  color: #4338ca;
+  text-align: left;
+  display: flex;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: Noto Sans;
+}
+
+.linkText {
+  text-decoration: none;
+  margin-right: 15px;
+  color: #4338ca;
+}
+
+.linkText:active {
+  color: #4338ca;
+}

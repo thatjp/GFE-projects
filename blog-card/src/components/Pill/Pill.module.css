@@ -1,0 +1,10 @@
+.pill {
+  border: 1px solid #bbf7d0;
+  color: #15803d;
+  background-color: #f0fdf4;
+  border-radius: 30px;
+  width: fit-content;
+  padding: 1px 5px;
+  font-size: 14px;
+  font-family: Noto Sans;
+}
